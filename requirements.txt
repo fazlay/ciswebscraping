@@ -1,0 +1,3 @@
+flask
+lxml==5.1.0
+Requests==2.27.1
